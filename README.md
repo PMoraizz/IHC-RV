@@ -45,7 +45,7 @@ Trabalho IHC A-Frame
   - Suporte para projetos de pesquisa colaborativa, permitindo que os alunos explorem diferentes regiões e compartilhem suas descobertas.
 - **RF4: Ambientes Educacionais Personalizados**
   - A plataforma deve permitir que os professores personalizem ambientes virtuais para atender aos objetivos educacionais específicos.
-- **RF6: Integração de Recursos Multimídia**
+- **RF5: Integração de Recursos Multimídia**
   - Suporte para a incorporação de materiais educativos, como vídeos, documentos e imagens, para enriquecer a experiência de aprendizado
 
 ## Frameworks Cognitivos
