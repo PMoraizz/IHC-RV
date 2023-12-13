@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "InstaIF",
+    "slug": "InstaIF",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/principal/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/principal/logo.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#fdffef"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/principal/logo.jpeg",
+        "backgroundColor": "#fdffef"
+      }
+    },
+    "web": {
+      "favicon": "./assets/principal/logo.png"
+    }
+  }
+}
