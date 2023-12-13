@@ -23,7 +23,7 @@ Trabalho IHC A-Frame
   - Visualizações realistas de diferentes tipos de relevos.
   - Exploração guiada com informações relevantes.
 
-### Professora Silva, 41
+### Professora Silva, 41 anos
 - **Background**
   - Professora de Geografia e História, com experiência no ensino tradicional.
 - **Motivações**
