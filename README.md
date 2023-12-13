@@ -48,7 +48,8 @@ Trabalho IHC A-Frame
 - **RF6: Integração de Recursos Multimídia**
   - Suporte para a incorporação de materiais educativos, como vídeos, documentos e imagens, para enriquecer a experiência de aprendizado
 
-**Frameworks Cognitivos:** O projeto utiliza uma abordagem que incorpora tanto Frameworks Cognitivos Internos quanto Externos.
+## Frameworks Cognitivos
+**O projeto utiliza uma abordagem que incorpora tanto Frameworks Cognitivos Internos quanto Externos.**
 - **Framework Cognitivo Interno:**
   - A experiência imersiva da RV ativa o conhecimento prévio e as conexões cognitivas internas dos alunos, permitindo que eles relacionem conceitos geográficos e históricos com experiências do mundo real.
 - **Framework Cognitivo Externo:**
