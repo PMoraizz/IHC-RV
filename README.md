@@ -1,7 +1,14 @@
 # IHC-RV
 Trabalho IHC A-Frame
 
-**Objetivo:** Desenvolver uma plataforma de Realidade Virtual (RV) voltada para o ensino de Geografia e História, proporcionando uma experiência imersiva aos alunos e professores. O projeto visa permitir a exploração virtual de diferentes lugares do mundo, facilitando a identificação de relevos e locais históricos.
+## Objetivo
+**Desenvolver uma plataforma de Realidade Virtual (RV) voltada para o ensino de Geografia e História, proporcionando uma experiência imersiva aos alunos e professores. O projeto visa permitir a exploração virtual de diferentes lugares do mundo, facilitando a identificação de relevos e locais históricos.**
+
+## Cenas
+- **Cena 1:** Visão do Professor
+  - Permite ao Professor uma maneira de demonstrar os alunos, de maneira mais imersa como é o comportamento do espaço geográfico.
+- **Cena 2:** Visão do Aluno
+  - Permite aos Alunos explorar diferentes cenários, podendo aprender como são as características de cada bioma.
 
 ## Personas
 
